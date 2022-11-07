@@ -1,3 +1,3 @@
 # 说明
 
-这是一个react 继承redux 的集成模板
+这是一个react集成redux 的集成模板
